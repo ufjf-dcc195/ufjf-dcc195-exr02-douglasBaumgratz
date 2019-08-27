@@ -1,6 +1,6 @@
 # Laboratório de Programação de Sistemas Web III - DCC195
 
-## Aluno:
+## Aluno
 Douglas Baumgratz de Carvalho
 
 ## Descrição
